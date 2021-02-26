@@ -1,0 +1,63 @@
+
+#Omni Common Configuration
+["Cavier Caves"]
+	#Range: 0 ~ 9600
+	arctiss_freeze_duration = 120
+	#Range: 0 ~ 1000
+	mushroom_cave_chance = 15
+	icy_cave_ice_windows = true
+	#Range: 0 ~ 1000
+	icy_cave_chance = 18
+	#Range: 0 ~ 1000
+	green_cave_mushroom_bounce_modifier = 1
+	#Range: 0 ~ 1000
+	budding_malachite_growth_chance = 5
+	speleothems_fall_by_projectiles = true
+	speleothems_fall = true
+	speleothems_fill_cauldrons = true
+	#Range: 0 ~ 1000
+	malachite_geode_spawn_chance = 48
+	speleothems_spawn_probability = 0.03
+	geode_shell_outer_block = "minecraft:granite"
+	geode_shell_inner_block = "minecraft:diorite"
+
+[Colormatic]
+	connectable_quilted_carpets = true
+	#Range: 0 ~ 64
+	traders_wool_trade_price = 1
+	layer_concrete = true
+	#Range: 0 ~ 100
+	flower_field_spawn_weight = 1
+	concrete_powder_falls = true
+	stack_flowers = true
+
+[Deserted]
+	#Range: 0 ~ 128
+	red_rock_gen_size = 36
+
+[Forestry]
+	golden_oak_spawn_chance = 0.005
+
+[Miscellaneous]
+	zombie_horse_transmutation = true
+	enchanted_golden_carrot_spawn_chance = 0.03
+
+[Paradise]
+	rideable_seahorses = true
+	#Range: 0 ~ 1000
+	seahorse_tame_chance = 5
+	#Range: 0 ~ 1000
+	large_seahorse_spawn_chance = 25
+	#Range: 0 ~ 100
+	tropical_plains_spawn_weight = 2
+	#Range: 0 ~ 1000
+	lotus_flower_spawn_chance = 8
+	#Range: 0 ~ 64
+	lotus_flower_trade_price = 1
+	seahorse_spawn_biomes = "minecraft:warm_ocean,minecraft:deep_warm_ocean"
+	seahorse_spawn_chance = 0.75
+
+[Wintertime]
+	#Range: 0 ~ 1000
+	polar_bear_jockey_chance = 40
+

@@ -1,0 +1,55 @@
+
+[horse]
+	"Allow vanilla minecraft Rabbits to spawn/exist:" = false
+	"Allow Genetic Rabbits to continue to spawn/exist:" = true
+	#Range: > 1000
+	"How many ticks it takes for a rabbit to give birth, 24000 = 1 Minecraft Day:" = 24000
+
+[general]
+	#Range: 0 ~ 100
+	"How random the genes should be, 100 is all wildtype animals, 0 is completely random:" = 90
+	"Allow feeding to age/grow animals:" = false
+	"Animals will spawn with random biome type" = false
+	#Set this to true to enable omnigenders, meaning the gender of the animal is irrelevant to who can fall pregnant, lay eggs, milk or sire young. False results in gendered animals. Visually nothing changes.
+	"Allow Omnigenders:" = false
+	#Allowed Values: RAVENOUS, MORE_HUNGRY, STANDARD, LESS_HUNGRY, NEVER_HUNGRY
+	"How fast the animals get hungry, Values: RAVENOUS, MORE_HUNGRY, STANDARD, LESS_HUNGRY, NEVER_HUNGRY" = "STANDARD"
+	"Animal inventory tabs will be on the top instead of side:" = true
+	"Animals only eat from players when hungry:" = true
+
+[llama]
+	#Range: > 1000
+	"How many ticks it takes for a Llama to give birth, 24000 = 1 Minecraft Day:" = 48000
+	"Allow vanilla minecraft Llamas to spawn/exist:" = false
+	"Allow Genetic Llamas to continue to spawn/exist:" = true
+
+[chicken]
+	"Allow vanilla minecraft Chickens to spawn/exist:" = false
+	"Allow Genetic Chickens to continue to spawn/exist:" = true
+
+[rabbit]
+	"Allow vanilla minecraft Rabbits to spawn/exist:" = false
+	"Allow Genetic Rabbits to continue to spawn/exist:" = true
+	#Range: > 1000
+	"How many ticks it takes for a rabbit to give birth, 24000 = 1 Minecraft Day:" = 24000
+
+[cow]
+	"Allow vanilla minecraft Mooshrooms to spawn/exist:" = false
+	#Range: > 1000
+	"How many ticks it takes for a Cow to give birth, 24000 = 1 Minecraft Day:" = 48000
+	"Allow Genetic Cows to continue to spawn/exist:" = true
+	"Allow vanilla minecraft Cows to spawn/exist:" = false
+	"Allow Genetic Mooshrooms to continue to spawn/exist:" = true
+
+[sheep]
+	"Allow vanilla minecraft Sheep to spawn/exist:" = false
+	#Range: > 1000
+	"How many ticks it takes for a Rabbit to give birth, 24000 = 1 Minecraft Day:" = 48000
+	"Allow Genetic Sheep to continue to spawn/exist:" = true
+
+[pig]
+	#Range: > 1000
+	"How many ticks it takes for a Pig to give birth, 24000 = 1 Minecraft Day:" = 48000
+	"Allow vanilla minecraft Pigs to spawn/exist:" = false
+	"Allow Genetic Pigs to continue to spawn/exist:" = true
+
