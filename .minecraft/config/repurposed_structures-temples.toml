@@ -71,4 +71,9 @@
 	#
 	# Add Badlands Pyramid to modded Badlands biomes.
 	addBadlandsPyramidToModdedBiomes = true
+	#Add Snowy Pyramid to modded snowy biomes.
+	#Range: 1 ~ 1001
+	pyramidSnowyMaxChunkDistance = 37
+	#Add Snowy Pyramid to modded snowy biomes.
+	addPyramidSnowyToModdedBiomes = true
 

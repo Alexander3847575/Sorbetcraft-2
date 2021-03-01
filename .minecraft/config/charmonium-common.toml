@@ -42,4 +42,6 @@
 	"Swamp ambience" = true
 	#If true, plays ambience when the player is in a taiga biome.
 	"Taiga ambience" = true
+	#If true, plays ambience when the player is in a badlands biome.
+	"Badlands ambience" = true
 
