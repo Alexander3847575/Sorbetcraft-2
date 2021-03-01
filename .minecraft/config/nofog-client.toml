@@ -1,5 +1,0 @@
-#False to disable the entire mod.
-enabled = true
-#True to also hide Blindness fog.
-hideBlindnessFog = false
-
