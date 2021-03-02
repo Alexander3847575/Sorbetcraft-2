@@ -11,19 +11,19 @@
 	#Change this value to change the name of the MineCraft window
 	windowDisplayTitle = "SorbetCraft 2 v6.0b"
 	#Set to true to load a custom icon from config\itlt\icon.png
-	loadCustomIcon = true
+	loadCustomIcon = false
 	#Set to true to attempt to use the icon assigned to the modpack by the technic launcher. 
 	#This will take priority over loadCustomIcon
 	useTechnicIcon = false
 	#Set to true to attempt to get the display name of the pack of the info json file \nThis will take priority over windowDisplayTitle
-	useTechnicDisplayName = true
+	useTechnicDisplayName = false
 
 #Management of a dedicated server
 [Server]
 	#Set to true to have a dedicated server added to the server list ingame. The server will not overwrite others servers.
 	AddDedicatedServer = true
 	#The name of the dedicated server to add.
-	ServerName = "Sorbet"
+	ServerName = "The Sorbet"
 	#The ip of the dedicated server to add.
 	ServerIP = "play.sorbet.tk"
 
