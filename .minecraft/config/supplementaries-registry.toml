@@ -45,8 +45,15 @@
 		flute = true
 		gold_trapdoor = false
 		gold_door = false
+		bamboo_spikes = true
+		checker_block = true
+		netherite_door = true
+		netherite_trapdoor = true
+		pancake = true
+		lock_block = true
 
 #all these don't actually disable blocks anymore, they just remove their recipe and remove them from the creative tabs(like all other mods do)
+#to access server configuration go into /saves/serverconfigs
 [general]
 	#enable creative tab
 	creative_tab = false

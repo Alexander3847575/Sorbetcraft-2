@@ -3,7 +3,7 @@
 	#Scales healing and instant damage inflicted by tipped arrows, like in Combat test snapshots.
 	#Default: true
 	"Arrow Instant Effect Nerf" = true
-	#Default: 0.25
+	#Default: 0.125
 	#Range: 0.125 ~ 1.0
 	"Arrow Instant Effect Scaling" = 0.25
 	#Allows arrows fired from crossbows enchanted with Piercing to damage closed shulkers.

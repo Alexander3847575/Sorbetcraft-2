@@ -1,5 +1,5 @@
 
-#Omni Common Configuration
+#Omni Configuration
 ["Cavier Caves"]
 	#Range: 0 ~ 9600
 	arctiss_freeze_duration = 120
@@ -17,9 +17,13 @@
 	speleothems_fill_cauldrons = true
 	#Range: 0 ~ 1000
 	malachite_geode_spawn_chance = 48
+	#Range: 0.0 ~ 1.0
 	speleothems_spawn_probability = 0.03
 	geode_shell_outer_block = "minecraft:granite"
 	geode_shell_inner_block = "minecraft:diorite"
+	malachite_biome_blacklist = ""
+	#Range: 0 ~ 1000
+	terracotta_cave_chance = 18
 
 [Colormatic]
 	connectable_quilted_carpets = true
@@ -31,15 +35,15 @@
 	concrete_powder_falls = true
 	stack_flowers = true
 
-[Deserted]
-	#Range: 0 ~ 128
-	red_rock_gen_size = 36
-
 [Forestry]
+	#Range: 0.0 ~ 1.0
 	golden_oak_spawn_chance = 0.005
+	#Range: 0 ~ 100
+	tall_forest_spawn_weight = 3
 
 [Miscellaneous]
 	zombie_horse_transmutation = true
+	#Range: 0.0 ~ 1.0
 	enchanted_golden_carrot_spawn_chance = 0.03
 
 [Paradise]
@@ -55,9 +59,23 @@
 	#Range: 0 ~ 64
 	lotus_flower_trade_price = 1
 	seahorse_spawn_biomes = "minecraft:warm_ocean,minecraft:deep_warm_ocean"
-	seahorse_spawn_chance = 0.75
+	#Range: 0 ~ 1000
+	seahorse_spawn_weight = 8
+	#Range: 0 ~ 100
+	badlands_jungle_spawn_weight = 2
+	#Range: 0 ~ 100
+	desert_jungle_spawn_weight = 2
 
 [Wintertime]
 	#Range: 0 ~ 1000
 	polar_bear_jockey_chance = 40
+
+["Wild West"]
+	#Range: 0 ~ 128
+	red_rock_gen_size = 36
+	#Range: 0 ~ 100
+	wooded_badlands_spawn_weight = 2
+	#Range: 0 ~ 100
+	wooded_desert_spawn_weight = 3
+	fantastical_saguaros = true
 
