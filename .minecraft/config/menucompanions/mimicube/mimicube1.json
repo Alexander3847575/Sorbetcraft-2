@@ -8,7 +8,7 @@
     "nameplate": false,
     "particles": true,
     "volume": 0.5,
-    "side": "FRONT"
+    "side": "LEFT"
   },
   "data": {
     "nbt": "{}",
