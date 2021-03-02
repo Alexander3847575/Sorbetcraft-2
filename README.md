@@ -4,7 +4,7 @@ For the third season of the Sorbet
 
 # DOWNLOAD & CHANGELOG:
 
-Latest release v6.0b: Journeys Above, Below, and in Other Dimensions
+Latest release v6.0b: Journeys Above, Below, and Between
 
 [LINK](https://github.com/Turnip1234/Sorbetcraft-v2/releases/tag/v6.0b)
 
