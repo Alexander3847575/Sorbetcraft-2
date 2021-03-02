@@ -15,5 +15,4 @@ A modpack for Minecraft 1.16.5 focused on sticking close to the vanilla spirit/p
 ## Screenshots:
 
 ## Credits:
-Credits will be here
-
+Look in the mod menu where it lists credits
