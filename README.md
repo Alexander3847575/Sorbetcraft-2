@@ -14,5 +14,13 @@ A modpack for Minecraft 1.16.5 focused on sticking close to the vanilla spirit/p
 
 ## Screenshots:
 
+### v6.0b
+
+![alt text](https://imgur.com/FHvpMbb.jpg "A large pagoda in the rain, surrounded by a glowing forest")
+
+![alt text](https://imgur.com/T3K856x.jpg "A beautiful cave opening in the daylight")
+
+![alt text](https://imgur.com/EX6Vz4P.jpg "A mossy underground lava lake with the cavern stretching into the distance")
+
 ## Credits:
 Look in the mod menu where it lists credits
