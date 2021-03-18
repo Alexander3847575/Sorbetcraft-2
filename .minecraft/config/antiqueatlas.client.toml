@@ -112,5 +112,5 @@
 	#If false, the minimap will show the map of the first atlas in the hotbar.
 	requiresHold = false
 	#Set true to enable minimap
-	enabled = false
+	enabled = true
 
