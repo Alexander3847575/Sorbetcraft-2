@@ -194,6 +194,7 @@ A modpack for Minecraft 1.16.5 focused on sticking close to the vanilla spirit/p
  - [Miner's Helmet](https://www.curseforge.com/minecraft/mc-mods/miners-helmet)
  - [More Minecarts](https://www.curseforge.com/minecraft/mc-mods/more-minecarts)
  - [More Waterlogging](https://www.curseforge.com/minecraft/mc-mods/more-waterlogging)
+ - [Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
  - [Neapolitan](https://www.curseforge.com/minecraft/mc-mods/neapolitan)
  - [Not Enough Crashes (Forge)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
  - [Oh My Gourd](https://www.curseforge.com/minecraft/mc-mods/oh-my-gourd)
